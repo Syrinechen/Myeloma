@@ -1,0 +1,4 @@
+autoencodeur.py : implémentation d'un autoencodeur pour réduire la dimension 
+Commpass dataset : https://github.com/clinicalml/ml_mmrf. Ici j'ai trouvé un dataset contenant des données de RNAseq de patients atteints de Myélome Multiple mais sans la réponse MRD. J'ai essayé de voir si les données sont compatibles à l'aide d'une projection UMAP à deux dimensions --> mais nous voyons deux clusters différents 
+mlp.py : code d'un réseau de neurones simple
+stabl_model : https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10002850/ commencé à explorer cet article mais je n'ai pas eu le temps de finir -> idée intéressante
